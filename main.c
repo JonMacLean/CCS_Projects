@@ -1,6 +1,6 @@
 
 ///*********************************************************************
-//|                         1ntation_
+//|                         1._Documentation_
 //|
 //|  FILE:            Main.c
 //|
@@ -93,7 +93,7 @@
 //|
 //|  BACKGROUND: _______________________________________________________
 //|                The definitions map the [Pin] number to the labeling
-//|              provided in the datasheet for PCD8544 48 ï¿½ 84 pixels
+//|              provided in the datasheet for PCD8544 48 × 84 pixels
 //|              matrix LCD controller/driver.
 //|
 //|
